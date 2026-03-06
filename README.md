@@ -25,12 +25,15 @@
 1. Двухгодичный контракт (-60%)
 2. Наличие техподдержки (-40%)
 3. Стаж > 2 лет (-50%)
+<img width="3568" height="2366" alt="50757096-f105-41e2-8122-e3547d7dc935" src="https://github.com/user-attachments/assets/518333d6-912f-4081-8875-93685f1fec68" />
 
 ##  Результаты модели
 - **Accuracy**: 81%
 - **ROC-AUC**: 85%
+  <img width="2367" height="1766" alt="03741700-0af1-442a-b080-c791fab4cceb" src="https://github.com/user-attachments/assets/a96a79d7-3a8c-4b07-8402-8d8ca3725221" />
 - **Точность (precision) для оттока**: 67%
 - **Полнота (recall) для оттока**: 55%
+<img width="2196" height="1766" alt="9e57f1b8-5ff5-4610-85cb-7f639760300f" src="https://github.com/user-attachments/assets/06908e28-f1b9-44fa-a703-112b9d9a11a4" />
 
 ## Бизнес-рекомендации
 
@@ -43,6 +46,7 @@
 ### Для новых клиентов (< 6 месяцев):
  Усиленная программа онбординга
  Персональный менеджер
+<img width="2967" height="1764" alt="f9f9a2ca-08ae-466a-972b-a88e1ced1abd" src="https://github.com/user-attachments/assets/c65fe9dc-6966-4a1c-bac4-ea0aa73fe2f8" />
 
 ##  Технологии
 - Python (Pandas, NumPy)
